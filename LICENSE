@@ -1,24 +1,93 @@
-This is free and unencumbered software released into the public domain.
+## **Cargo-Helper Proprietary Software License**  
+This is a **closed-source proprietary software license** for your plugin, **Cargo-Helper**, released under your company **Hehe Fun House (禾禾奇趣屋)**.  
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+---
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+# **Cargo-Helper Proprietary Software License**  
+**Version 1.0**  
+**Copyright © 2024 Hehe Fun House (禾禾奇趣屋).**  
+**All Rights Reserved.**  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+## **1. License Grant**  
+Hehe Fun House (禾禾奇趣屋) grants you a **non-exclusive, non-transferable, and non-sublicensable** right to use the **Cargo-Helper** software under the following conditions:  
+- You may install and use the software on JetBrains IDEs **for personal or professional use**.  
+- You **must not modify, decompile, reverse engineer, disassemble, or attempt to access the source code**.  
+- You **must not distribute, resell, or sublicense** the software to third parties.  
+- Unauthorized reproduction, modification, or redistribution is strictly prohibited.  
 
-For more information, please refer to <https://unlicense.org>
+## **2. Ownership & Copyright**  
+- This software remains the exclusive property of **Hehe Fun House (禾禾奇趣屋)**.  
+- No ownership rights are transferred to the user.  
+- The source code is **not publicly available**, and access to it is strictly prohibited.  
+
+## **3. Disclaimer of Warranty**  
+- This software is provided **"as-is"**, without any warranty of any kind, either express or implied.  
+- Hehe Fun House (禾禾奇趣屋) **is not responsible for any damages, data loss, or legal issues resulting from the use of the software**.  
+
+## **4. License Termination**  
+- Violation of any terms in this agreement will result in **immediate termination** of the license. You must stop using the software and uninstall it.  
+- Legal actions may be taken against violators.  
+
+## **5. Governing Law**  
+- This license is governed by the **laws of [Specify Country or Region, e.g., "China" or "the United States"].**  
+- Any disputes will be resolved in the **[Specify Court, e.g., "Beijing Municipal Court or another designated jurisdiction"].**  
+
+**© 2024 Hehe Fun House (禾禾奇趣屋). All Rights Reserved.**  
+
+---
+
+### **Usage Instructions**  
+1. **Save this document as `LICENSE.txt` or `LICENSE` and upload it to your GitHub repository.**  
+2. **Include the following license note in your `README.md` file:**  
+   ```markdown
+   ## License  
+   Cargo-Helper is proprietary software licensed under the [LICENSE](LICENSE.txt) by Hehe Fun House (禾禾奇趣屋).  
+   Modification, reverse engineering, or redistribution is strictly prohibited.  
+   ```
+3. **Submit the GitHub license file link as the "License URL" when publishing on JetBrains Plugin Marketplace.**  
+
+---
+
+This ensures **Cargo-Helper** is **closed-source, and legally protected against modification, redistribution, and unauthorized access**. 🚀  
+
+For stricter legal protections or commercial licensing, consider consulting a legal professional. 😊  
+
+---
+
+## **Cargo-Helper 专有软件许可协议**  
+此许可证适用于您的 JetBrains 插件 **Cargo-Helper**，由您的公司 **禾禾奇趣屋 (Hehe Fun House)** 提供。该软件为**闭源专有软件**，并受以下条款保护。  
+
+---
+
+# **Cargo-Helper 专有软件许可协议**  
+**版本 1.0**  
+**版权所有 © 2024 禾禾奇趣屋 (Hehe Fun House)**  
+**保留所有权利。**  
+
+## **1. 许可范围**  
+禾禾奇趣屋 (Hehe Fun House) 授予您**非独占、不可转让、不可再许可**的有限权利，以在符合以下条件的情况下使用 **Cargo-Helper** 软件：  
+- 允许用户在 JetBrains IDE 上安装和使用该软件**用于个人或商业用途**。  
+- **不得修改、反编译、逆向工程、拆解或尝试访问源代码**。  
+- **不得分发、转售、或再授权**本软件给第三方。  
+- 严禁未经授权的复制、修改或再分发。  
+
+## **2. 所有权与版权**  
+- 本软件的所有权归 **禾禾奇趣屋 (Hehe Fun House)** 独家所有。  
+- 本协议不授予用户任何所有权，仅提供使用许可。  
+- 该软件的源代码**不公开，禁止访问或分析**。  
+
+## **3. 免责声明**  
+- 本软件**按"原样"提供**，不提供任何明示或暗示的担保，包括但不限于适用于特定目的、无错误或功能完整性等保证。  
+- 禾禾奇趣屋 (Hehe Fun House) **对于因使用本软件造成的任何损害、数据丢失或法律问题概不负责**。  
+
+## **4. 许可证终止**  
+- **如用户违反本协议的任何条款，许可证将立即终止**，并必须停止使用并卸载软件。  
+- 违反本条款可能导致法律后果。  
+
+## **5. 适用法律**  
+- 本协议受 **[指定国家或地区的法律，例如“中华人民共和国”或“美国”]** 约束。  
+- 任何相关争议应提交至 **[指定法院，例如“北京市人民法院”或其他管辖法院]** 解决。  
+
+**© 2024 禾禾奇趣屋 (Hehe Fun House)。保留所有权利。**  
+
+---
